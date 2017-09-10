@@ -1,0 +1,9 @@
+For any grading issues related to set06 please contact:
+Sri Sudha: suryadevara.s@husky.neu.edu
+Parth Bansal: bansal.p@husky.neu.edu
+
+1. Wrong template for node. No need for the placeholder.
+
+D: A+
+P: A
+C: 15/15

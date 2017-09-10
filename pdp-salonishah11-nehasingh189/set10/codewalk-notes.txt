@@ -1,0 +1,12 @@
+TA Name:- Rama (chandrasekar.r@husky.neu.edu)
+Helper Name:- Ameya (ameya@ccs.neu.edu)
+
+Design Grade:- A+
+Presentation Grade:- A
+Correctness Score:- 14/15
+
+Notes:-
+
+1. Missing "center of the block" while specifying x and y co-ordinates
+2. Should define and use constants instead of using numbers explicitly
+3. Organization of files

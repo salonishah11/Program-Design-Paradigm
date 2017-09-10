@@ -1,0 +1,26 @@
+TA Name:- Vinay
+Helper Name:- Vijay
+
+Correctness Score:- 15/15
+Design Grade:- A
+
+——————————————————————————————
+
+salonishah11
+
+Presentation Grade:- A
+
+——————————————————————————————
+
+nehasingh189
+
+Presentation Grade:- A
+
+——————————————————————————————
+
+Notes:-
+
+1) Write contracts for lambdas - Not mandatory if lambdas are simple
+2) Return statements are too generic. Try to be more specific
+3) What changes will you make to include multiple targets? - answered
+4) Use constants instead of using magic Strings 

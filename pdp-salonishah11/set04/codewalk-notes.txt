@@ -1,0 +1,13 @@
+CCS ID: salonishah11
+
+Correctness: 10/15
+Design: AB
+Presentation: A
+
+Notes:
+
+- Test cases failed on changing constants, write test cases using constants
+- Follow style guide, camel casing for all data definitions
+- Be consistent about the names for your data definition types throughout the program
+- Redundant calls to make-rect in all helper functions, could have decomposed rect once and delegated individual properties to helper functions
+- Avoid early decomposition, pass only those parameters that you want to change and not all

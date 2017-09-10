@@ -1,0 +1,5 @@
+Day: Thursday, Time: 18:00:00, Room: Ryder 202
+
+1. Full test coverage
+2. Should have generalized subset
+3. Using cond inside if in rect-after-key-event
